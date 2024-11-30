@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<div align="center">
+  <img src="https://github.com/HamedGhaneS/HamedGhaneS/raw/main/Cover.webp" alt="Cover Image">
+</div>
+
+
 <!--
 **HamedGhaneS/HamedGhaneS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
