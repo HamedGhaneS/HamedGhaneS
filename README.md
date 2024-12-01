@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://github.com/HamedGhaneS/HamedGhaneS/raw/main/Cover.webp" alt="Cover Image">
+  <h1>Hi there, I'm Hamed Ghane 👋</h1>
+  <h3>Neuroscientist | Control Engineer | AI Enthusiast</h3>
 </div>
 
 <div align="center">
-  <h1>Hi there, I'm Hamed Ghane 👋</h1>
-  <h3>Neuroscientist | Control Engineer | AI & BCI Enthusiast</h3>
+  <img src="https://github.com/HamedGhaneS/HamedGhaneS/raw/main/Cover.webp" alt="Cover Image">
 </div>
+
+
 
 
 ### 🧠 About Me
