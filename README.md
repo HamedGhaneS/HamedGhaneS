@@ -18,10 +18,9 @@
 
 I'm a Senior Postdoctoral Researcher at the University of Glasgow, working at the intersection of neuroscience, control engineering, and artificial intelligence. My journey uniquely combines over a decade of experience in Control Engineering with a deep fascination for understanding the human brain.
 
-- 🔬 Currently developing BCI systems using EEG, EMG, and fMRI to study sensorimotor decision-making
+- 🔬 Currently developing BCI systems using EEG, EMG, and ECG to study sensorimotor decision-making
 - 🎓 PhD in Control Engineering with expertise in nonlinear dynamics
-- 🤖 Passionate about applying control theory to computational neuroscience
-- 🧪 Experience in designing and implementing real-time Brain-Computer Interface systems
+- 📚 Second master in Brain and Cognition
 - 📚 Active researcher in neurotechnology and AI
 - 💡 Fascinated by Language Models and their cognitive implications
 
@@ -50,13 +49,12 @@ I'm a Senior Postdoctoral Researcher at the University of Glasgow, working at th
 - Senior Postdoctoral Researcher at University of Glasgow
 - Former Assistant Professor specializing in Control Engineering
 - Research experience at University of Groningen
-- Led development of attitude control systems for satellite projects
-- Multiple publications in control theory and neuroscience
+- Led the development of attitude determination and control systems for satellite projects
 
 ### 📫 Connect With Me
 
 - 📧 Email: hmd.ghane.s@gmail.com
 - 🔗 LinkedIn: [www.linkedin.com/in/hamedghane](https://www.linkedin.com/in/hamedghane)
-- 📍 Location: Glasgow, Scotland, UK
+  
 
 
