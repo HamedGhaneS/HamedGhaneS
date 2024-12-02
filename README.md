@@ -8,6 +8,10 @@
 </div>
 
 
+<div align="center">
+  <i>AI-generated image (GPT-4o)</i>
+</div>
+
 
 
 ### 🧠 About Me
@@ -55,8 +59,4 @@ I'm a Senior Postdoctoral Researcher at the University of Glasgow, working at th
 - 🔗 LinkedIn: [www.linkedin.com/in/hamedghane](https://www.linkedin.com/in/hamedghane)
 - 📍 Location: Glasgow, Scotland, UK
 
----
 
-<div align="center">
-  <i>Bridging the gap between control engineering and neuroscience through innovative research and technology</i>
-</div>
