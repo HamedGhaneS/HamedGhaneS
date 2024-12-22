@@ -39,6 +39,7 @@ I'm a Senior Postdoctoral Researcher at the University of Glasgow, working at th
 - Neurotechnology
 - Computational Neuroscience
 - Control Theory Applications in Neuroscience
+- LLM
 - AI-Enhanced Neural Data Analysis
 - Human-Inspired AI Development
 - Decision-Making
