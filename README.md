@@ -16,7 +16,7 @@
 
 ### 🧠 About Me
 
-I'm a Postdoctoral Researcher at the University of Glasgow, working at the intersection of neuroscience, control engineering, and artificial intelligence. My journey uniquely combines over a decade of experience in Control Engineering with a deep fascination for understanding the human brain and cognitive mechanisms.
+I'm a Postdoctoral Researcher at the University of Glasgow, working at the intersection of neuroscience, control engineering, and artificial intelligence. My journey  combines over a decade of experience in Control Engineering with a deep fascination for understanding the human brain and cognitive mechanisms.
 
 - 🔬 Currently developing BCI systems using EEG, EMG, and ECG to study sensorimotor decision-making
 - 🎓 PhD in Control Engineering with expertise in nonlinear dynamics
