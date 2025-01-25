@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, my name is Hamed Ghane 👋</h1>
-  <h3>Neuroscientist | Control Engineer | AI Enthusiast</h3>
+  <h3>Neuroscientist | Control Engineer | AI and Neurotechnology Enthusiast</h3>
 </div>
 
 <div align="center">
