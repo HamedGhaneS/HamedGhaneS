@@ -33,7 +33,7 @@ I'm a Postdoctoral Researcher at the University of Glasgow, working at the inter
 - **Data Analysis:** Statistical Analysis, Data Mining
 - **Tools & Technologies:** Brain-Computer Interfaces, EEG-ECG-EMG Recording
 
-### 🎯 Research Focus
+### 🎯 Research Interests
 
 - Brain-Computer Interfaces (BCI)
 - Neurotechnology
