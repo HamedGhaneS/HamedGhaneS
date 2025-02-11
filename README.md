@@ -1,61 +1,66 @@
 <div align="center">
-  <h1>Hi there, my name is Hamed Ghane 👋</h1>
-  <h3>Neuroscientist | Control Engineer | AI and Neurotechnology Enthusiast</h3>
+  <h1>👋 Hi, I'm Hamed Ghane</h1>
+  <h3>Neuroscientist | Control Engineer | AI & Neurotechnology Enthusiast</h3>
 </div>
 
 <div align="center">
   <img src="https://github.com/HamedGhaneS/HamedGhaneS/raw/main/Cover.webp" alt="Cover Image">
-</div>
-
-
-<div align="center">
+  <br>
   <i>AI-generated image (GPT-4o)</i>
 </div>
 
+---
 
+## 🧠 About Me  
 
-### 🧠 About Me
+I am a **Postdoctoral Researcher at the University of Glasgow**, working at the intersection of **neuroscience, control engineering, and AI**. My expertise blends **real-time system modeling, adaptive control, and computational neuroscience**, allowing me to develop innovative **brain-computer interfaces (BCI) and neurotechnology solutions**.
 
-I'm a Postdoctoral Researcher at the University of Glasgow, working at the intersection of neuroscience, control engineering, and artificial intelligence. My journey  combines over a decade of experience in Control Engineering with a deep fascination for understanding the human brain and cognitive mechanisms.
+- 🔬 **Current Research:** Developing **BCI systems** using EEG, EMG, and ECG for **sensorimotor decision-making**  
+- 🎓 **Academic Background:**  
+  - **Ph.D. in Control Engineering** (Nonlinear Dynamics & System Optimization)  
+  - **Second Master's in Brain & Cognition**  
+- 🧪 **Research Areas:** Neurotechnology, AI, Computational Neuroscience, and AI-Enhanced Neural Data Analysis  
+- 💡 **Passionate About:** Advancing **LLMs & AI-driven neurotechnology** for human-inspired intelligence  
 
-- 🔬 Currently developing BCI systems using EEG, EMG, and ECG to study sensorimotor decision-making
-- 🎓 PhD in Control Engineering with expertise in nonlinear dynamics
-- 📚 Second master in Brain and Cognition
-- 📚 Active researcher in neurotechnology and AI
-- 💡 Fascinated by Language Models and their cognitive implications
+---
 
-### 🛠️ Technical Stack
+## 🛠️ Technical Stack  
 
-- **Programming:** Python, MATLAB
-- **Neural Data Analysis:** EEG, EMG, ECG
-- **Machine Learning & AI:** Deep Learning, Computational Intelligence, NLP
-- **Control Systems:** Nonlinear Control, System Analysis and Optimization
-- **Data Analysis:** Statistical Analysis, Data Mining
-- **Tools & Technologies:** Brain-Computer Interfaces, EEG-ECG-EMG Recording
+- **Programming:** Python, MATLAB  
+- **Neural Data Analysis:** EEG, EMG, ECG  
+- **Machine Learning & AI:** Deep Learning, Computational Intelligence, NLP  
+- **Control Systems:** Nonlinear Control, System Analysis & Optimization  
+- **Data Science:** Statistical Analysis, Data Mining  
+- **Tools & Technologies:** Brain-Computer Interfaces, Real-Time Signal Processing  
 
-### 🎯 Research Interests
+---
 
-- Brain-Computer Interfaces (BCI)
-- Neurotechnology
-- Computational Neuroscience
-- Control Theory Applications in Neuroscience
-- LLM
-- AI-Enhanced Neural Data Analysis
-- Human-Inspired AI Development
-- Decision-Making
+## 🎯 Research Interests  
 
+- **Brain-Computer Interfaces (BCI)** & Cognitive Enhancement  
+- **Neurotechnology & Computational Neuroscience**  
+- **Control Theory Applications in Neuroscience**  
+- **AI-Driven Neural Data Analysis**  
+- **Large Language Models (LLMs) & AI for Neurotechnology**  
+- **Human-Inspired AI & Decision-Making Models**  
 
-### 🌟 Career Highlights
+---
 
-- Senior Postdoctoral Researcher at University of Glasgow
-- Former Assistant Professor specializing in Control Engineering
-- Research experience at University of Groningen
-- Led the development of attitude determination and control systems for satellite projects
+## 🌟 Career Highlights  
 
-### 📫 Connect With Me
+- 🏛️ **Senior Postdoctoral Researcher**, University of Glasgow  
+- 🎓 **Former Assistant Professor**, Control Engineering  
+- 🛰️ **Led Satellite Attitude Determination & Control System Development**  
+- 🤖 **Advanced Research in AI-Driven BCI & Robotics**  
+- 🌍 **International Research Experience**, including **University of Groningen**  
 
-- 📧 Email: hmd.ghane.s@gmail.com
-- 🔗 LinkedIn: [www.linkedin.com/in/hamedghane](https://www.linkedin.com/in/hamedghane)
-  
+---
 
+## 📫 Connect With Me  
+
+- 📧 Email: **hmd.ghane.s@gmail.com**  
+- 🔗 LinkedIn: [**linkedin.com/in/hamedghane**](https://www.linkedin.com/in/hamedghane)  
+   
+
+---
 
