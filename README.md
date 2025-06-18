@@ -1,66 +1,43 @@
-<div align="center">
-  <h1>👋 Hi, I'm Hamed Ghane</h1>
-  <h3>Neuroscientist | Control Engineer | AI & Neurotechnology Enthusiast</h3>
-</div>
+# Hamed Ghane
 
-<div align="center">
-  <img src="https://github.com/HamedGhaneS/HamedGhaneS/raw/main/Cover.webp" alt="Cover Image">
-  <br>
-  <i>AI-generated image (GPT-4o)</i>
-</div>
+**Neuroscientist • Control Engineer • AI Researcher**
 
 ---
 
-## 🧠 About Me  
+My name is Hamed, I am a neuroscientist with a PhD in Control Engineering. I am driven by understanding how the brain works and building intelligent systems that bridge neuroscience and artificial intelligence. Brain-computer interfaces have been the main focus of my research, combining real-time neural signal processing with adaptive control systems to create technologies that enhance human capabilities.
 
-I am a **Postdoctoral Researcher at the University of Glasgow**, working at the intersection of **neuroscience, control engineering, and AI**. My expertise blends **real-time system modeling, adaptive control, and computational neuroscience**, allowing me to develop innovative **brain-computer interfaces (BCI) and neurotechnology solutions**.
+![Neural Network Visualization](https://github.com/HamedGhaneS/HamedGhaneS/raw/main/Cover.webp)
+*AI-generated visualization representing the intersection of neuroscience and technology*
 
-- 🔬 **Current Research:** Developing **BCI systems** using EEG, EMG, and ECG for **sensorimotor decision-making**  
-- 🎓 **Academic Background:**  
-  - **Ph.D. in Control Engineering** (Nonlinear Dynamics & System Optimization)  
-  - **Second Master's in Brain & Cognition**  
-- 🧪 **Research Areas:** Neurotechnology, AI, Computational Neuroscience, and AI-Enhanced Neural Data Analysis  
-- 💡 **Passionate About:** Advancing **LLMs & AI-driven neurotechnology** for human-inspired intelligence  
+Currently, I am a **Postdoctoral Researcher at the University of Glasgow**, developing BCI systems using EEG, EMG, and ECG for sensorimotor decision-making. My work combines computational neuroscience with machine learning to create intelligent interfaces between mind and machine.
 
----
+## Research & Expertise
 
-## 🛠️ Technical Stack  
+**Neural Interfaces** — Developing brain-computer interfaces that translate neural signals into actionable commands  
+**Computational Neuroscience** — Modeling complex neural dynamics and cognitive processes  
+**AI & Machine Learning** — Applying deep learning to neural data analysis and pattern recognition  
+**Control Systems** — Designing adaptive control algorithms for real-time neural signal processing  
 
-- **Programming:** Python, MATLAB  
-- **Neural Data Analysis:** EEG, EMG, ECG  
-- **Machine Learning & AI:** Deep Learning, Computational Intelligence, NLP  
-- **Control Systems:** Nonlinear Control, System Analysis & Optimization  
-- **Data Science:** Statistical Analysis, Data Mining  
-- **Tools & Technologies:** Brain-Computer Interfaces, Real-Time Signal Processing  
+## Technical Focus
 
----
+`Python` `MATLAB` `Deep Learning` `Signal Processing` `Control Theory` `Neurotechnology`
 
-## 🎯 Research Interests  
+## Academic Journey
 
-- **Brain-Computer Interfaces (BCI)** & Cognitive Enhancement  
-- **Neurotechnology & Computational Neuroscience**  
-- **Control Theory Applications in Neuroscience**  
-- **AI-Driven Neural Data Analysis**  
-- **Large Language Models (LLMs) & AI for Neurotechnology**  
-- **Human-Inspired AI & Decision-Making Models**  
+**Ph.D. Control Engineering** — Nonlinear Dynamics & System Optimization  
+**M.Sc. Brain & Cognition** — Computational approaches to understanding neural mechanisms  
+**Postdoctoral Research** — University of Glasgow & University of Groningen  
 
 ---
 
-## 🌟 Career Highlights  
+### Current Projects
 
-- 🏛️ **Senior Postdoctoral Researcher**, University of Glasgow  
-- 🎓 **Former Assistant Professor**, Control Engineering  
-- 🛰️ **Led Satellite Attitude Determination & Control System Development**  
-- 🤖 **Advanced Research in AI-Driven BCI & Robotics**  
-- 🌍 **International Research Experience**, including **University of Groningen**  
+Exploring the intersection of large language models and neurotechnology • Developing AI-enhanced neural data analysis methods • Creating human-inspired decision-making models
 
----
+### Connect
 
-## 📫 Connect With Me  
-
-- 📧 Email: **hmd.ghane.s@gmail.com**  
-- 🔗 LinkedIn: [**linkedin.com/in/hamedghane**](https://www.linkedin.com/in/hamedghane)  
-   
+[**Email**](mailto:hmd.ghane.s@gmail.com) • [**LinkedIn**](https://linkedin.com/in/hamedghane) • [**Research Profile**](https://hamedghanes.github.io/)
 
 ---
 
+*"At the intersection of minds and machines, we discover the future of human potential"*
