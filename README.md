@@ -1,6 +1,6 @@
 # Hamed Ghane
 
-**Neuroscientist • Control Engineer • AI Researcher**
+**Neurotechnonogist • Control Engineer • AI Researcher**
 
 ---
 
