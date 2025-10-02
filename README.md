@@ -1,4 +1,4 @@
-# Dr. Hamed Ghane
+# Hamed Ghane
 
 **Research Scientist (Neurotech) | Real-Time ML on Biosignals (EEG/EMG/ECG)**
 
