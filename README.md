@@ -1,43 +1,87 @@
-# Hamed Ghane
+# Dr. Hamed Ghane
 
-**Neurotechnonogist • Control Engineer • AI Researcher**
+**Research Scientist (Neurotech) | Real-Time ML on Biosignals (EEG/EMG/ECG)**
 
----
+<div align="center">
 
-My name is Hamed, I am a neuroscientist with a PhD in Control Engineering. I am driven by understanding how the brain works and building intelligent systems that bridge neuroscience and artificial intelligence. Brain-computer interfaces have been the main focus of my research, combining real-time neural signal processing with adaptive control systems to create technologies that enhance human capabilities.
+[![Website](https://img.shields.io/badge/🌐_Website-hamedghanes.github.io-blue?style=for-the-badge)](https://hamedghanes.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamedghane)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmd.ghane.s@gmail.com)
 
-![Neural Network Visualization](https://github.com/HamedGhaneS/HamedGhaneS/raw/main/Cover.webp)
-*AI-generated visualization representing the intersection of neuroscience and technology*
-
-Currently, I am a **Postdoctoral Researcher at the University of Glasgow**, developing BCI systems using EEG, EMG, and ECG for sensorimotor decision-making. My work combines computational neuroscience with machine learning to create intelligent interfaces between mind and machine.
-
-## Research & Expertise
-
-**Neural Interfaces** — Developing brain-computer interfaces that translate neural signals into actionable commands  
-**Computational Neuroscience** — Modeling complex neural dynamics and cognitive processes  
-**AI & Machine Learning** — Applying deep learning to neural data analysis and pattern recognition  
-**Control Systems** — Designing adaptive control algorithms for real-time neural signal processing  
-
-## Technical Focus
-
-`Python` `MATLAB` `Deep Learning` `Signal Processing` `Control Theory` `Neurotechnology`
-
-## Academic Journey
-
-**Ph.D. Control Engineering** — Nonlinear Dynamics & System Optimization  
-**M.Sc. Brain & Cognition** — Computational approaches to understanding neural mechanisms  
-**Postdoctoral Research** — University of Glasgow & University of Groningen  
+</div>
 
 ---
 
-### Current Projects
+## 🧠 About Me
 
-Exploring the intersection of large language models and neurotechnology • Developing AI-enhanced neural data analysis methods • Creating human-inspired decision-making models
+Research scientist specializing in **brain-computer interfaces**, **real-time machine learning on biosignals**, and **neural interface technology**. Currently Research Associate at the **University of Glasgow**.
 
-### Connect
-
-[**Email**](mailto:hmd.ghane.s@gmail.com) • [**LinkedIn**](https://linkedin.com/in/hamedghane) • [**Research Profile**](https://hamedghanes.github.io/)
+- 🔬 Building BCI systems that enhance human capabilities
+- 🤖 Developing time-series ML for EEG/EMG/ECG analysis
+- ⚡ Creating low-latency, closed-loop neural interfaces
+- 📊 Combining control engineering with computational neuroscience
 
 ---
+
+## 🚀 Featured Projects
+
+### [Prosody-on-Demand](https://hamedghanes.github.io/Prosody_on_Demand/)
+AI-driven audio-neural interface that transforms speech into memorable formats using real-time EEG feedback. **40%+ memory improvement** in clinical studies.
+
+### [Agency-Safe HMIs](https://hamedghanes.github.io/Agency-Safe-HMIs/)
+Establishing ethical timing thresholds for BCIs to preserve human sense of agency, autonomy, and legal responsibility in ultra-fast neurotechnology systems.
+
+### Multi-Modal Real-Time BCI Platform
+Closed-loop system integrating EEG, ECG, and EMG for sensorimotor decision-making with latency-optimized architecture.
+
+---
+
+## 💻 Technical Skills
+
+**Machine Learning & AI**
+- Time-series classification/regression, event detection, segmentation
+- PyTorch, scikit-learn, TensorFlow
+- Causal & streaming inference
+
+**Biosignal Processing**
+- EEG/EMG/ECG filtering & feature extraction
+- Real-time signal processing (LSL integration)
+- Artifact handling & source separation
+
+**Control Engineering**
+- Linear & nonlinear control systems
+- System modeling & identification
+- Hardware-in-the-loop (HIL/SIL) validation
+
+**Programming & Tools**
+- Python (NumPy, SciPy, pandas)
+- MATLAB
+- Git, Docker
+
+---
+
+## 🎓 Education & Experience
+
+- 🔬 **Research Associate** - University of Glasgow (2024 - Present)
+- 🧠 **MSc, Brain and Cognition** - Pompeu Fabra University (2022-2023)
+- ⚙️ **PhD, Control Engineering** - AUT, Iran (2009-2013)
+- 🌍 **Visiting Researcher** - University of Groningen (2017-2018)
+
+---
+
+## 📫 Get In Touch
+
+- 🌐 **Website:** [hamedghanes.github.io](https://hamedghanes.github.io/)
+- 📧 **Email:** hmd.ghane.s@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/hamedghane](https://linkedin.com/in/hamedghane)
+- 🎓 **Academic Profile:** [University of Glasgow](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/hamedghanesasansaraei/)
+
+---
+
+<div align="center">
+
+### 🤝 Open to collaboration on neurotechnology research
 
 *"At the intersection of minds and machines, we discover the future of human potential"*
+
+</div>
